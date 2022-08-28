@@ -3,7 +3,7 @@
 
 <p>Olá, seja bem vindo ao ReadMe desse repositório, espero que goste!</p>
 
-<p>Meu nome é Guilherme sou estudante de Engenharia de Software da PUC Minas e decidi postar esse projeto de backend criado a partir da linguagem de baixo nível C.O projeto foi realizado em parceria com os alunos Samuel Marques Sousa Leal e Tiago Vitor Pereira Saraiva. Nosso objetivo com esse projeto era desenvolver um sistema de Locadora de carros com um conjunto das seguintes funcionalidades: </p>
+<p>Meu nome é Guilherme sou estudante de Engenharia de Software da PUC Minas e decidi postar esse projeto de backend criado a partir da linguagem de baixo nível C. O projeto foi realizado em parceria com os alunos Samuel Marques Sousa Leal e Tiago Vitor Pereira Saraiva. Nosso objetivo com esse projeto era desenvolver um sistema de Locadora de carros com um conjunto das seguintes funcionalidades: </p>
 
 <p>
 1.Função para cadastrar um cliente. Esta função deve garantir que não
